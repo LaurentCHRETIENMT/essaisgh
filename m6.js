@@ -8,4 +8,4 @@ var f=function(x,y){
 	console.log( [1000,2000,3000].slice(0));
 }
 
-f(100,2000);
+f(100,20);
